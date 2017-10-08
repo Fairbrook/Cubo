@@ -1,0 +1,11 @@
+H:\Progra\Cubo\Cubo\bin\Debug\Cubo.exe.config
+H:\Progra\Cubo\Cubo\bin\Debug\Cubo.exe
+H:\Progra\Cubo\Cubo\bin\Debug\Cubo.pdb
+H:\Progra\Cubo\Cubo\bin\Debug\OpMatrices.dll
+H:\Progra\Cubo\Cubo\bin\Debug\OpMatrices.pdb
+H:\Progra\Cubo\Cubo\obj\Debug\Cubo.csprojResolveAssemblyReference.cache
+H:\Progra\Cubo\Cubo\obj\Debug\Cubo.Form1.resources
+H:\Progra\Cubo\Cubo\obj\Debug\Cubo.Properties.Resources.resources
+H:\Progra\Cubo\Cubo\obj\Debug\Cubo.csproj.GenerateResource.Cache
+H:\Progra\Cubo\Cubo\obj\Debug\Cubo.exe
+H:\Progra\Cubo\Cubo\obj\Debug\Cubo.pdb
